@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Integrate grossum/post-api into your Symfony project",
     "keywords": ["api", "post", "guzzle"],
-    "license": "CC-BY-SA-3.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Konstantin Gritsenko",
