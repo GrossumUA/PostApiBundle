@@ -1,0 +1,4 @@
+services:
+    grossum_post_api.client:
+        class: Grossum\Post\Client
+        arguments: [%grossum_post_api.api_key%]
