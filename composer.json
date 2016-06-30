@@ -1,0 +1,20 @@
+{
+    "name": "grossum/post-api-bundle",
+    "type": "symfony-bundle",
+    "description": "Integrate grossum/post-api into your Symfony project",
+    "keywords": ["api", "post", "guzzle"],
+    "license": "CC-BY-SA-3.0",
+    "authors": [
+        {
+            "name": "Konstantin Gritsenko",
+            "email": "kgritsenko@grossum.com"
+        }
+    ],
+    "require": {
+        "symfony/framework-bundle": "~2.0|~3.0",
+        "grossum/post-api": "~1.0"
+    },
+    "autoload": {
+        "psr-4": { "Grossum\\PostApiBundle\\": "" }
+    }
+}
